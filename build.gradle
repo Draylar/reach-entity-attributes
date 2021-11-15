@@ -2,7 +2,7 @@ import org.gradle.util.GradleVersion
 import java.time.Instant
 
 plugins {
-    id "fabric-loom" version "0.9.54"
+    id "fabric-loom" version "0.10-SNAPSHOT"
     id "net.nemerosa.versioning" version "2.15.0"
     id "maven-publish"
     id "signing"
